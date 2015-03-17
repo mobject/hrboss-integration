@@ -28,8 +28,8 @@
                 <version>2.2</version>
                 <configuration>
                     <path>/spring-security-saml2-sample</path>
-                    <port>8090</port>
-                    <httpsPort>8553</httpsPort>
+                    <port>8080</port>
+                    <httpsPort>8443</httpsPort>
                     <keystoreFile>${project.basedir}/src/main/resources/tomcat/tomcat-ssl.keystore</keystoreFile>
                     <keystorePass>Hrb0ss2015</keystorePass>
                 </configuration>
